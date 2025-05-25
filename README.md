@@ -51,7 +51,7 @@ After running, you'll find `table.xlsx` in the current directory with your datab
 Each table will have:
 - A header with the table name
 - A structured list of its columns
-- Columns: Logical Name, Physical Name, Data Type, Constraint, Remark
+- Columns: Column Name, Data Type
 
 ## 📌 Notes
 
